@@ -1,3 +1,6 @@
+# Compilando e instalando Alacritty
+
+...
 
 ## Referências:
 [Cargo Installation](https://github.com/alacritty/alacritty/blob/master/INSTALL.md)
